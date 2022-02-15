@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem Set 6
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-082-ship-structural-analysis-design-13-122-spring-2003/f693d7fed241cd4696a9f5506a03e2e5_PS6.pdf
+file: /media/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/f693d7fed241cd4696a9f5506a03e2e5_PS6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: PS6.pdf
 uid: f693d7fe-d241-cd46-96a9-f5506a03e2e5

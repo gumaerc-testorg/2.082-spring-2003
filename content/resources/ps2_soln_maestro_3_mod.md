@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: '[Supplement to problem set 5]'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-082-ship-structural-analysis-design-13-122-spring-2003/2bfe537103116b5b9e319119cb49ee2a_PS2_soln_maestro_3_mod.xls
+file: /media/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/2bfe537103116b5b9e319119cb49ee2a_PS2_soln_maestro_3_mod.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: PS2_soln_maestro_3_mod.xls
 uid: 2bfe5371-0311-6b5b-9e31-9119cb49ee2a
