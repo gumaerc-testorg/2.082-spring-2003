@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 339347d7-6dda-a6eb-56b2-e6130a6e6f7b
 resourcetype: Other
 title: shames_11_10_2nd_ed.mcd
 uid: ae7f8ffd-4f62-54b6-d216-0eadfcb89a21

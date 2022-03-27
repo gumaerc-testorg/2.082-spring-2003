@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 339347d7-6dda-a6eb-56b2-e6130a6e6f7b
 resourcetype: Other
 title: ps_4_1_2003_computation_a_2001.mcd
 uid: 55d44338-f9b9-b3ae-2452-df95aabd2485

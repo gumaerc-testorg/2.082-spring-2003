@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 66cade9f-8156-2287-0b4f-1efb004a50ea
 resourcetype: Document
 title: notes_31_Ult_str_stf_.pdf
 uid: a0243bae-cc08-ce7b-75de-0cce387e5c04

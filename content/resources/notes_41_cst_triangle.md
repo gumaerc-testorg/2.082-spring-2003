@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 66cade9f-8156-2287-0b4f-1efb004a50ea
 resourcetype: Document
 title: notes_41_CST_triangle.pdf
 uid: b225d721-e9e7-81d8-0681-e0e1341c3ac3

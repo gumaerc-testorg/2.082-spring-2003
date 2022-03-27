@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 66cade9f-8156-2287-0b4f-1efb004a50ea
 resourcetype: Document
 title: lecture_7a.pdf
 uid: e28fda0f-16f1-0af1-8427-1ebfac69aeb4

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 66cade9f-8156-2287-0b4f-1efb004a50ea
 resourcetype: Document
 title: notes_18_shear_multic.pdf
 uid: d7ad0562-a5e6-6840-8233-9313403b40fa

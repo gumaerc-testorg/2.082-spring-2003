@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 66cade9f-8156-2287-0b4f-1efb004a50ea
 resourcetype: Document
 title: notes_36_element_stif.pdf
 uid: 7f00c6a0-9e19-4fa5-8839-126a9ed14c53

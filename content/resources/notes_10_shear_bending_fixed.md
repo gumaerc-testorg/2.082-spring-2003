@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 66cade9f-8156-2287-0b4f-1efb004a50ea
 resourcetype: Document
 title: notes_10_shear_bending_fixed.pdf
 uid: c1470aca-adde-cc64-c333-e57dd6db740b

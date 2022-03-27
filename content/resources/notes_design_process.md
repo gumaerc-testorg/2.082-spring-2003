@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0c7da014-5238-5135-0c3d-0b069f0928ed
 resourcetype: Document
 title: notes_design_process.pdf
 uid: 527b9ac0-77d7-9dcd-8c4e-dc2a8b1a0526

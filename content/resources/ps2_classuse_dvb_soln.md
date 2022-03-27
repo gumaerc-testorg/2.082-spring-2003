@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 339347d7-6dda-a6eb-56b2-e6130a6e6f7b
 resourcetype: Other
 title: PS2_classuse_dvb_soln.xls
 uid: a577558d-c49e-9c75-4443-50a2c00ce1f3

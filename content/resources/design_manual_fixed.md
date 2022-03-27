@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0c7da014-5238-5135-0c3d-0b069f0928ed
 resourcetype: Document
 title: design_manual_fixed.pdf
 uid: 0fe7f802-3582-065d-05c8-b299464ff535
