@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 339347d7-6dda-a6eb-56b2-e6130a6e6f7b
 ---
@@ -68,9 +71,9 @@ Problem Set 5: Maestro Tutorial and Building Model (Preliminary) ([PDF]({{< base
 {{< tdopen >}}
 Instructions ([PDF]({{< baseurl >}}/resources/ps5instructions))  
 [PS2\_soln\_maestro\_3\_mod.xls]({{< baseurl >}}/resources/ps2_soln_maestro_3_mod)  
-[ps\_5\_2\_full\_2.mdl](/courses/mechanical-engineering/2-082-ship-structural-analysis-design-13-122-spring-2003/assignments/ps_5_2_full_2.mdl)  
-[ps\_5\_2\_mod.mdl](/courses/mechanical-engineering/2-082-ship-structural-analysis-design-13-122-spring-2003/assignments/ps_5_2_mod.mdl)  
-[ps\_5\_4\_mod.mdl](/courses/mechanical-engineering/2-082-ship-structural-analysis-design-13-122-spring-2003/assignments/ps_5_4_mod.mdl)
+[ps\_5\_2\_full\_2.mdl]({{< baseurl >}}/resources/ps_5_2_full_2)  
+[ps\_5\_2\_mod.mdl]({{< baseurl >}}/resources/ps_5_2_mod)  
+[ps\_5\_4\_mod.mdl]({{< baseurl >}}/resources/ps_5_4_mod)
 {{< tdclose >}}
 
 {{< trclose >}}
