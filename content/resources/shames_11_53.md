@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Solution to Problem Set 3: Shear Stress, Center of Twist'
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/9da8867146ecfaa56ad0188c0a68f6fe_shames_11_53.mcd
+file_size: 39801
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
