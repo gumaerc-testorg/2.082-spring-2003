@@ -2,6 +2,7 @@
 content_type: resource
 description: Plate Buckling
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/fa06f3138c9f2424486fff53d5cca01f_notes_28_plate_buckl.pdf
+file_size: 677193
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
