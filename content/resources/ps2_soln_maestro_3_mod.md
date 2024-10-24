@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Supplement to problem set 5]'
-file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/2bfe537103116b5b9e319119cb49ee2a_PS2_soln_maestro_3_mod.xls
+file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/2bfe537103116b5b9e319119cb49ee2a_PS2_soln_maestro_3_mod.xls
 file_size: 395776
 file_type: application/msword
 learning_resource_types:
