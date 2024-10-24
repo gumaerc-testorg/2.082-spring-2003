@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/5dbd5ed7d774e2191dca896c383dcd89_abs_long_str.pdf
+file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/5dbd5ed7d774e2191dca896c383dcd89_abs_long_str.pdf
 file_size: 420674
 file_type: application/pdf
 learning_resource_types: []

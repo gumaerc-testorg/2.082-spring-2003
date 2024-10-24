@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Plate Bending Introduction
-file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/7365aec88460b54d40d160a8252a42f0_notes_22_plate_bendin.pdf
+file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/7365aec88460b54d40d160a8252a42f0_notes_22_plate_bendin.pdf
 file_size: 234146
 file_type: application/pdf
 learning_resource_types: []
