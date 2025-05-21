@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design Manual
-file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/0fe7f8023582065d05c8b299464ff535_design_manual_fixed.pdf
+file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/0fe7f8023582065d05c8b299464ff535_design_manual_fixed.pdf
 file_size: 209306
 file_type: application/pdf
 learning_resource_types: []

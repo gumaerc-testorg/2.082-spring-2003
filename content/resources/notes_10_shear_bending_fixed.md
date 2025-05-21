@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Primary Load: Bending Moment and Shear Force'
-file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/c1470acaaddecc64c333e57dd6db740b_notes_10_shear_bending_fixed.pdf
+file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/c1470acaaddecc64c333e57dd6db740b_notes_10_shear_bending_fixed.pdf
 file_size: 355609
 file_type: application/pdf
 learning_resource_types: []
