@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Grillage Overview/Introduction
-file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/f8e14c655abc6dede69f79174d291800_notes_39_grillage_ove.pdf
+file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/f8e14c655abc6dede69f79174d291800_notes_39_grillage_ove.pdf
 file_size: 148720
 file_type: application/pdf
 learning_resource_types: []
