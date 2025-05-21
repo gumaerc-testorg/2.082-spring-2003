@@ -5,7 +5,7 @@ description: 'Differential Equation and Solution
   aka Pure and Warping Torsion
 
   aka Free and Restrained Warping'
-file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/7b387c14ec1420f858bfd7ca7947d79a_notes_15_pure___warp.pdf
+file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/7b387c14ec1420f858bfd7ca7947d79a_notes_15_pure___warp.pdf
 file_size: 450746
 file_type: application/pdf
 learning_resource_types: []
