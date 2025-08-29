@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problem set 5: Instructions'
-file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/d170d6394fa3cbc05e6ec63e0d77afeb_ps5instructions.pdf
+file: /ol-ocw-studio-app/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/d170d6394fa3cbc05e6ec63e0d77afeb_ps5instructions.pdf
 file_size: 21604
 file_type: application/pdf
 learning_resource_types:
