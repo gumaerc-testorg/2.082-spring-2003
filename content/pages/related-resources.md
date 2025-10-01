@@ -12,6 +12,6 @@ video_metadata:
   youtube_id: null
 ---
 
-[ABS Rules for Ship Construction and Design](https://ww2.eagle.org/en/rules-and-resources/rules-and-guides.html)
+{{% resource_link "eba6e280-e7ff-4c74-b6cf-06b02e5f40ed" "ABS Rules for Ship Construction and Design" %}}
 
-[ASD vs. LRFD (Structural Engineering)](http://www.bgstructuralengineering.com/BGDesign/BGDesign05.htm)
+{{% resource_link "b06b59a0-2c48-437d-9798-47edc869978c" "ASD vs. LRFD (Structural Engineering)" %}}
